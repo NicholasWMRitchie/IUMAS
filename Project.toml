@@ -10,9 +10,11 @@ Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
 ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
 ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
 Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 NeXLCore = "93a0284f-3680-435e-8d39-dd6e52a1dbc8"
 NeXLMatrixCorrection = "3ab34fdf-2fe8-473b-9b20-30f5809db337"
 NeXLSpectrum = "6c578565-ca7f-4012-afc4-b8412d85af92"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
