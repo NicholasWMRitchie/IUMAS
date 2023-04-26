@@ -5,10 +5,9 @@
 # Folders to ignore - files may be too large, too many, etc. NOTE: EDIT IF NEEDED.
 /data/exp_raw/MnDeepSeaNodule
 /data/exp_raw/MnDeepSeaNoduleStandards
-/data/exp_pro
+/data/exp_pro/*.jld2
 /videos
-/plots
-/papers
+/plots/*.png
 /_research
 
 ################################################################################
