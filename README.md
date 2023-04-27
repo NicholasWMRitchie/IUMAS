@@ -1,7 +1,7 @@
 # IUMAS - An Introduction to the NeXL Packages
 
 * [NeXLCore](https://github.com/usnistgov/NeXLCore.jl) - Basic X-ray microanalysis algorithms and data
-* [NeXLMatrixCorrection]https://github.com/usnistgov/NeXLMatrixCorrection.jl) - Matrix correction for X-ray Microanalysis
+* [NeXLMatrixCorrection](https://github.com/usnistgov/NeXLMatrixCorrection.jl) - Matrix correction for X-ray Microanalysis
 * [NeXLSpectrum](https://github.com/usnistgov/NeXLSpectrum.jl) - Spectrum and hyperspectrum processing
 
 It has been prepared for IUMAS8, the 8th meeting of the International 
