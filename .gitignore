@@ -9,6 +9,8 @@
 /videos
 /plots/*.png
 /_research
+/notebooks/jl_*
+/notebooks/*.html
 
 ################################################################################
 #                                    Julia                                     #
