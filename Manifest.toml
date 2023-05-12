@@ -1174,13 +1174,13 @@ version = "0.1.5"
 
 [[deps.NeXLCore]]
 deps = ["BoteSalvatICX", "CSV", "CategoricalArrays", "Colors", "Compose", "ConcurrentCollections", "CoordinateTransformations", "DBInterface", "DataDeps", "DataFrames", "Dierckx", "Downloads", "FileIO", "GeometryBasics", "ImageCore", "LaTeXStrings", "LinearAlgebra", "Markdown", "Measures", "NeXLUncertainties", "NumberIntervals", "PeriodicTable", "PhysicalConstants", "Pkg", "Polynomials", "Printf", "QuadGK", "Random", "Reexport", "Requires", "SQLite", "StaticArrays", "Statistics", "Tables", "Unitful"]
-git-tree-sha1 = "d82feb289ff6913ca2e6cad62dc855377179ebe6"
+path = "C:\\Users\\nritchie\\.julia\\dev\\NeXLCore"
 uuid = "93a0284f-3680-435e-8d39-dd6e52a1dbc8"
-version = "0.3.8"
+version = "0.3.9-dev"
 
 [[deps.NeXLMatrixCorrection]]
 deps = ["CSV", "Colors", "DataFrames", "Folds", "LinearAlgebra", "NeXLCore", "NeXLUncertainties", "PeriodicTable", "Random", "Reexport", "Requires", "Roots", "SpecialFunctions", "Statistics"]
-git-tree-sha1 = "0a1f8efa05828b845b1d28c0cf64c7856b7a51f0"
+path = "C:\\Users\\nritchie\\.julia\\dev\\NeXLMatrixCorrection"
 uuid = "3ab34fdf-2fe8-473b-9b20-30f5809db337"
 version = "0.3.6"
 
