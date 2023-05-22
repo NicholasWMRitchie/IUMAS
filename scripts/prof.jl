@@ -5,8 +5,8 @@ using NeXLSpectrum
 using Gadfly
 using DataFrames
 
-using Profile
-using PProf
+#using Profile
+#using PProf
 
 
 # DataDeps is a utility for downloading data on demand from a URL
