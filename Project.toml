@@ -1,5 +1,5 @@
 authors = ["Nicholas W.M. Ritchie <nicholas.ritchie@nist.gov>"]
-repo-url = "https://github.com/usnistgov/IUMAS.jl"
+-repo-url = "https://github.com/usnistgov/IUMAS.jl"
 name = "IUMAS"
 
 [deps]
@@ -32,9 +32,9 @@ ImageIO = "0.6"
 ImageMagick = "1.2"
 Images = "0.25"
 JLD2 = "0.4"
-NeXLCore = "0.3.8"
-NeXLMatrixCorrection = "0.3.8"
-NeXLSpectrum = "0.3.5"
+NeXLCore = "0.3.11"
+NeXLMatrixCorrection = "0.3.9"
+NeXLSpectrum = "0.3.6"
 Parameters = "0.12"
 StatsBase = "0.33"
 julia = "1.9.0"

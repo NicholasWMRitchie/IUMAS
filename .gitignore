@@ -8,6 +8,8 @@
 /data/exp_pro/*.jld2
 /videos
 /plots/*.png
+/plots/1T/*
+/plots/12T/*
 /_research
 /notebooks/jl_*
 /notebooks/*.html
